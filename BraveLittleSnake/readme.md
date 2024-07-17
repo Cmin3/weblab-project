@@ -6,4 +6,4 @@
 使蛇头触碰食物即可进食，请尽量吃更多的桃红色果实，使蛇蛇长大~ 动动手手帮蛇蛇健康成长吧~
 
 # 【打开方式】
-下载解压，用电脑端打开GAME文件夹，双击BraveLittleSnake.html开始游戏。
+下载解压GAME.zip，用电脑端打开GAME文件夹，双击BraveLittleSnake.html开始游戏。
